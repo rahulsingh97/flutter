@@ -17,15 +17,15 @@ github repository is made to keep up the code with team and and use the code her
 | `Custom Fonts` | https://fonts.google.com |
 | `Youtube` | https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ |
 
-##REFERENCE
+## REFERENCE
 > this secton needs fixing
 
 __Addind custom fonts:__ Right click on assets> new> dictonary> _GIVE NAME_ > _drag and drop the .ttf font file into created folder_ .go to yml file and uncomment
 __Addind custom Images:__
 
-##BLOG
+## BLOG
 
-#### `18-10-2020`
+`18-10-2020`
 > PLEASE DON'T MIND THE CURSED WORDS IN THE APP> IT WILL SOON BE CHANGED
 
 Complited 1st to 13th video and uplodad the main.dart and we have also upladed the font files that are required to run the app. 
