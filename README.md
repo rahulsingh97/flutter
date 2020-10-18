@@ -1,4 +1,4 @@
-# :iphone:Learning Flutter
+# :computer::iphone:Learning Flutter
 
 ## Introduction 
 github repository is made to keep up the code with team and and use the code here as base/template and examples for future projects. Our goal here is to to make a base/template with `firebase`, `Flutter UI/UX`and`adobe XD`. here we have plans to use this as the control app for our `python`, `adruno`, `windows-form application` & etc... .We have gib=ven high prority to Firebase and Flutter UI/UX.
