@@ -10,7 +10,7 @@ github repository is made to keep up the code with team and and use the code her
 | `Preethi R Singh` | ***EMAIL ONLY*** | preethirajput2k@gmail.com | ***coming soon*** | [singhpriti5](github.com/singhpriti5)  | [Preethi Singh](http://www.linkedin.com/in/preethi-singh-a5a3b31a3)|
 | `Mahith ` | 8095907910 | ***coming soon*** | ***coming soon*** | ***coming soon*** | ***coming soon*** |
 
-## Other Acess
+## Other Links
 | Database | Link |
 | --- | --- |
 | `Google Drive` | https://drive.google.com/drive/folders/11AEldJgBIZt4j5ylrb93BXD3iXYjv197?usp=sharing |
