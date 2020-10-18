@@ -25,7 +25,7 @@ __Addind custom Images:__
 
 ## BLOG
 
-`18-10-2020`
+#### 18-10-2020
 > PLEASE DON'T MIND THE CURSED WORDS IN THE APP> IT WILL SOON BE CHANGED
 
 Complited 1st to 13th video and uplodad the main.dart and we have also upladed the font files that are required to run the app. 
