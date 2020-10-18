@@ -8,7 +8,7 @@ github repository is made to keep up the code with team and and use the code her
 | --- | --- | --- | :---: | :---: | --- |
 | `Rahul R Singh` | 7022045932 | rs846239@gmail.com | [RahulRSingh.com](http://rahulrsingh.com) | [rahulsingh97](github.com/rahulsingh97) | [Rahul R Singh](https://www.linkedin.com/in/rahul-r-singh-064915129)|
 | `Preethi R Singh` | ***EMAIL ONLY*** | preethirajput2k@gmail.com | ***coming soon*** | [singhpriti5](github.com/singhpriti5)  | [Preethi Singh](http://www.linkedin.com/in/preethi-singh-a5a3b31a3)|
-| `Matith ` | 8095907910 | ***coming soon*** | ***coming soon*** | ***coming soon*** | ***coming soon*** |
+| `Mahith ` | 8095907910 | ***coming soon*** | ***coming soon*** | ***coming soon*** | ***coming soon*** |
 
 ## Other Acess
 | Database | Link |
