@@ -20,7 +20,9 @@ github repository is made to keep up the code with team and and use the code her
 ## Reference
 > this secton needs fixing
 
+__Getting started with flurrer:__
 __Addind custom fonts:__ Right click on assets> new> dictonary> _GIVE NAME_ > _drag and drop the .ttf font file into created folder_ .go to yml file and uncomment
+
 __Addind custom Images:__
 
 ## Blog
